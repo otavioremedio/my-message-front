@@ -1,3 +1,9 @@
+//pra rodar tudo
+um cmd para gulp
+um cmd para node
+um cmd para mongo listener
+um cmd para mongo shell
+
 ///mongo
 rodar mongod já com a pasta data\db criada
 comando mongo conecta
