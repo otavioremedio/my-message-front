@@ -23,3 +23,7 @@ selecionar body, raw e json
 
 //instalar body-parser na pasta de back
 npm install body-parser -save
+
+
+//instalar mongo na pasta de back
+npm install mongodb
