@@ -1,0 +1,8 @@
+///mongo
+rodar mongod já com a pasta data\db criada
+comando mongo conecta
+
+//gulp
+para criar projeto "yo gulp-angular nome projeto"
+depois acionar o comando "gulp"
+depois acionar o comando "gulp serve"
