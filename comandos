@@ -6,3 +6,20 @@ comando mongo conecta
 para criar projeto "yo gulp-angular nome projeto"
 depois acionar o comando "gulp"
 depois acionar o comando "gulp serve"
+
+//comando para criar o back-end
+npm init
+npm install express -save
+
+//node
+comando para rodar 
+node server.js
+
+
+//para testar node
+addon postman
+http://localhost:5000/api/message
+selecionar body, raw e json
+
+//instalar body-parser na pasta de back
+npm install body-parser -save
