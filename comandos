@@ -1,3 +1,15 @@
+//ambiente
+
+install node
+install mongo
+install brackets
+    extesions rating
+    file tree exclude
+    brackets git
+install yo (npm install -g yo)
+install bower, gulp-angular (npm install -g gulp bower generator-gulp-angular)
+
+
 //pra rodar tudo
 um cmd para gulp
 um cmd para node
