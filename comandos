@@ -45,3 +45,6 @@ npm install body-parser -save
 
 //instalar mongo na pasta de back
 npm install mongodb
+
+//instalar mongoose
+npm install mongoose -save
